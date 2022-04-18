@@ -30,11 +30,11 @@ Extended functionality in digiKam is implemented via a set of tools based of plu
 
 this is forked version of this kind person [ truefriend-cz ](https://github.com/truefriend-cz) but with portableapps.com format
 
-# Read Carefully Before Launching Digikam
+# Building Digikam Portable
 
 ## Manual
 
-### Steps
+### Background
 
 #### Portable Apps Compiler
 
@@ -57,6 +57,8 @@ this is forked version of this kind person [ truefriend-cz ](https://github.com/
 
 ![](Assets/img/Images_03.jpg)
 
-2. This Is the place where Digikam launcher attempts to store the face engine. This is optional as Digikam portable as it is needed only by showfoto but one can attempt to launch 
+2. This Is the place where showfoto launcher attempts to store the face engine. This is optional as it is needed only by showfoto but one can attempt to launch and data size of 300mb will be downloaded after launching showfoto portable.
 
    ![](Assets/img/Images_04.jpg)
+
+   3. This where ShowFoto and Digikam portable executable located. Executable are not hosted in this fork as it is not my scope but can be downloaded from 
