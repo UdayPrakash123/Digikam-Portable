@@ -36,14 +36,21 @@ this is forked version of this kind person [ truefriend-cz ](https://github.com/
 
 ### Steps
 
+#### Portable Apps Compiler
+
+1. If one is Familiar with portableapps.com format can compile their own portable apps with two each specific .ini for Digikam and Showfoto. Just Run Bat files to rename and change respective ini file
+
+![](Assets/img/Images_01.jpg)
+
+2. If you want to change the parameters of launcher one can these ini file as in below image.
+
+   ![](Assets/img/Images_02.jpg)
+
 1. Change these values
 
-`Database Name=C:/Users/%USERNAME%/Pictures/`
-
-`Database Name Face=C:/Users/%USERNAME%/Pictures/`
-
-`Database Name Similarity=C:/Users/%USERNAME%/Pictures/`
-
+`Database Name=C:/Users/%USERNAME%/Pictures/` 
+`Database Name Face=C:/Users/%USERNAME%/Pictures/` 
+`Database Name Similarity=C:/Users/%USERNAME%/Pictures/` 
 `Database Name Thumbnails=C:/Users/%USERNAME%/Pictures/`  
 
      accordingly to Database located in custom location your drives in files.
