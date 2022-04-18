@@ -67,4 +67,4 @@ First clone this repo
 
 ![](Assets/img/Images_06.jpg)
 
-That's it done
+That's it done.
