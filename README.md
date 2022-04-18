@@ -44,31 +44,19 @@ this is forked version of this kind person [ truefriend-cz ](https://github.com/
 
 2. If you want to change the parameters of launcher one can these ini file as in below image.
 
-   ![](Assets/img/Images_02.jpg)
+![](Assets/img/Images_02.jpg)
 
-1. Change these values
+3. Glimpse of codes in `Digikamportable.Ini` can edit to suit for one’s needs.
 
-`Database Name=C:/Users/%USERNAME%/Pictures/` 
-`Database Name Face=C:/Users/%USERNAME%/Pictures/` 
-`Database Name Similarity=C:/Users/%USERNAME%/Pictures/` 
-`Database Name Thumbnails=C:/Users/%USERNAME%/Pictures/`  
+   ![](Assets/img/Images_05.jpg)
 
-     accordingly to Database located in custom location your drives in files.
+#### Digikam
+##### Data Files
 
-digikamrc in Data\digikam_systemrc folder
-showfotorc in Data\digikam_systemrc
+1. This Is the place where Digikam launcher attempts to store the Digikam Database Files required for accessing image manipulation, Image Recoginition, Image Search for duplicates and Thumbnails storage. For processsing large huge image library it is vital to have high speed data drive for smooth workflow.
 
-2. Change these values   
+![](Assets/img/Images_03.jpg)
 
-`dir = %APPDATA%\DigikamDataBase :: Data\DigikamDataBase`
+2. This Is the place where Digikam launcher attempts to store the face engine. This is optional as Digikam portable as it is needed only by showfoto but one can attempt to launch 
 
-   in Files
-
-​						[showfotoPortable.ini](showfotoPortable.ini) 								[DigikamPortable.ini](DigikamPortable.ini)
-
-to suit your need where you wish.
-
-### Note :
-
-1. Folders must be in absolute values not with environment variable in files digikamrc, digikam_systemrc .
-2. Use text editor of your choice to edit files.
+   ![](Assets/img/Images_04.jpg)
