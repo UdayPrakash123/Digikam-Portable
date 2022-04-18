@@ -34,6 +34,8 @@ this is forked version of this kind person [ truefriend-cz ](https://github.com/
 
 ## Manual
 
+First clone this repo
+
 ### Background
 
 #### Portable Apps Compiler
@@ -61,5 +63,8 @@ this is forked version of this kind person [ truefriend-cz ](https://github.com/
 
    ![](Assets/img/Images_04.jpg)
 
-3. This where ShowFoto and Digikam portable executable located. Executable are not hosted in this fork as it is not my scope but can be downloaded from this [Link](https://www.digikam.org/download/) and executable can be extracted using Uniextract or some thing like that.
+3. This where ShowFoto and Digikam portable executable located. Executable are not hosted in this fork as it is not my scope but can be downloaded from this [Link](https://www.digikam.org/download/) and executable can be extracted using Uniextract or some thing like that. Place the extracted files in this folder as shown in image below.
+
 ![](Assets/img/Images_06.jpg)
+
+That's it done
