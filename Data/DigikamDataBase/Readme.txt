@@ -1,0 +1,1 @@
+This Is where Digikam Portable Database Files resides

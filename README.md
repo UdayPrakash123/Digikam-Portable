@@ -29,3 +29,36 @@ Extended functionality in digiKam is implemented via a set of tools based of plu
 ## About This Version 
 
 this is forked version of this kind person [ truefriend-cz ](https://github.com/truefriend-cz) but with portableapps.com format
+
+# Read Carefully Before Launching Digikam
+
+## Manual
+
+### Steps
+
+1. Change these values
+
+`Database Name=C:/Users/%USERNAME%/Pictures/` 
+`Database Name Face=C:/Users/%USERNAME%/Pictures/` 
+`Database Name Similarity=C:/Users/%USERNAME%/Pictures/` 
+`Database Name Thumbnails=C:/Users/%USERNAME%/Pictures/`  
+
+     accordingly to Database located in custom location your drives in files.
+
+digikamrc in Data\digikam_systemrc folder
+showfotorc in Data\digikam_systemrc
+
+2. Change these values   
+
+`dir = %APPDATA%\DigikamDataBase :: Data\DigikamDataBase`
+
+   in Files
+
+​						[showfotoPortable.ini](showfotoPortable.ini) 								[DigikamPortable.ini](DigikamPortable.ini)
+
+to suit your need where you wish.
+
+### Note :
+
+1. Folders must be in absolute values not with environment variable in files digikamrc, digikam_systemrc .
+2. Use text editor of your choice to edit files.
