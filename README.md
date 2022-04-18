@@ -38,9 +38,12 @@ this is forked version of this kind person [ truefriend-cz ](https://github.com/
 
 1. Change these values
 
-`Database Name=C:/Users/%USERNAME%/Pictures/` 
-`Database Name Face=C:/Users/%USERNAME%/Pictures/` 
-`Database Name Similarity=C:/Users/%USERNAME%/Pictures/` 
+`Database Name=C:/Users/%USERNAME%/Pictures/`
+
+`Database Name Face=C:/Users/%USERNAME%/Pictures/`
+
+`Database Name Similarity=C:/Users/%USERNAME%/Pictures/`
+
 `Database Name Thumbnails=C:/Users/%USERNAME%/Pictures/`  
 
      accordingly to Database located in custom location your drives in files.
