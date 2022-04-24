@@ -68,3 +68,5 @@ First clone this repo
 ![](Assets/img/Images_06.jpg)
 
 That's it done.
+ 
+Run Digikamportable.exe Now digikam with portable instance will run.
